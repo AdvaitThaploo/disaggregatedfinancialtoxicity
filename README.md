@@ -4,6 +4,8 @@ Code for my pipeline analyzing financial toxicity and healthcare access among di
 
 **Note:** Standard data privacy disclaimer—no PHI or individual-level data in this repo per DUAs.
 
+Code also is not commented or designed for readability as this is a single-person project. 
+
 ## Tech / Pipeline Notes
 
 * Polars over pandas with lazy eval and scanning parquets directly from GCS, for efficient transfromation and joins
