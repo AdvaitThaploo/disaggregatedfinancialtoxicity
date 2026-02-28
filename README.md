@@ -4,7 +4,7 @@ Code for my pipeline analyzing financial toxicity and healthcare access among di
 
 **Note:** Standard data privacy disclaimer—no PHI or individual-level data in this repo per DUAs.
 
-Code also is not commented or designed for readability as this is a single-person project. 
+Code also is not commented or designed for readability as this is a single-person project. Latest version of manuscript does not yet reflect mode imputation added in code.
 
 ## Tech / Pipeline Notes
 
