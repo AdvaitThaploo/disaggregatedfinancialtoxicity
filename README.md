@@ -2,9 +2,7 @@
 
 Code for my pipeline analyzing financial toxicity and healthcare access among disaggregated Asian American cancer survivors. Built to run end-to-end inside Juputer on Terra. Handles the full workflow from raw EHR and survey pulls down to the final regression tables and plots.
 
-**Note:** Standard data privacy disclaimer—no PHI or individual-level data in this repo per DUAs.
-
-Code also is not commented or designed for readability as this is a single-person project. Latest version of manuscript does not yet reflect mode imputation added in code.
+No PHI or individual-level data in this repo per DUAs. Code also is not commented or designed for readability as this is a single-person project. Latest version of manuscript does not yet reflect mode imputation added in code.
 
 ## Tech / Pipeline Notes
 
